@@ -12,4 +12,3 @@ Spams your computer with notifications.
 - [ ] Cross-platform edition
 - [ ] Customizable duration, delay, notification text, etc.
 - [ ] GUI?
-- [ ] 
